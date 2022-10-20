@@ -1,0 +1,6 @@
+[
+  {
+  "status":"online",
+  "informacao":"Todos os serviços estão funcionando normalmente.",
+  }
+]
